@@ -12,9 +12,9 @@ In this project, I have implemented a B-tree indexing structure in Java. This ma
 
 • Lookup(int value): find the specified value. If the value exists, returning value is True.
 
-• Insert(int value): insert the specified value.
+• Insert(int value): insert the specified value. If the value is already inserted, do nothing.
 
-• Display(int node): print out the indexing tree structure under specified node.
+• Display(int node): print out the indexing tree structure under specified node. I also print out all keys that in the same node of the given int node.
 
 
 I have also implement other functions to better build and demonstrate B tree:
