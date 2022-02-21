@@ -23,11 +23,7 @@ public class BtreeTest {
         testGivenArray(test1, 7);
         testGivenArray(test1, 6);
         testGivenArray(test1, 5);
-        testGivenArray(test1, 4);
-        testGivenArray(test1, 3);
 
-        testGivenArray(test2, 8);
-        testGivenArray(test2, 7);
         testGivenArray(test2, 6);
         testGivenArray(test2, 5);
         testGivenArray(test2, 4);
